@@ -1,3 +1,0 @@
-open.js test asset
-
-you should be reading this in your default editor
